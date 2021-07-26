@@ -44,11 +44,11 @@ The Project Rubrics
 
 4. Pipeline (video)  
 (1) Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!)  
- [Video: project_video_output.mp4](https://github.com/kkumazaki/Self-Drivig-Car_Project2_Advanced-Lane-Finding/tree/master/test_videos_output)  
+ [Video: project_video_output.mp4](https://github.com/kkumazaki/Self-Drivig-Car_Project2_Advanced-Lane-Finding/tree/master/test_videos_output/after_countermeasure)  
 
 5. Discussion  
 (1)Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?  
-[Video: challenge_video_output.mp4, harder_challenge_video_output.mp4](https://github.com/kkumazaki/Self-Drivig-Car_Project2_Advanced-Lane-Finding/tree/master/test_videos_output)  
+[Video: challenge_video_output.mp4, harder_challenge_video_output.mp4](https://github.com/kkumazaki/Self-Drivig-Car_Project2_Advanced-Lane-Finding/tree/master/test_videos_output/after_countermeasure)  
   
    *: Please refer the writeup report for details!
 
