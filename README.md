@@ -1,7 +1,7 @@
 # **Advanced Lane Finding** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<img src="test_videos_output/img1.png" width="480" alt="Combined Image" />
+<img src="test_videos_output/after_countermeasure/project_after_01.png" width="480" alt="Combined Image" />
 
 Overview
 ---
